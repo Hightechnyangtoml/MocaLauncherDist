@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/JEJUEDU/Desktop/Project%20Moca%20Server/Launcher/Root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "모카서버 (Minecraft 1.16.5)",
+    "description": "모카서버 Running Minecraft 1.16.5 (Forge v36.2.42)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "IlyMoca.mcv.kr",
+    "discord": {
+      "shortId": "1332628141524647936",
+      "largeImageText": "Moca",
+      "largeImageKey": "1024icon"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.42"
+  },
+  "untrackedFiles": []
+}
